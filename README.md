@@ -1,4 +1,4 @@
-# 5V-LDO-Regulator
+# 5V-Regulator
 5V LDO Voltage Regulator PCB with LM7805
 By Jaidon Hill
 
