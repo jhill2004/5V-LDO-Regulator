@@ -1,5 +1,5 @@
 # 5V-Regulator
-5V LDO Voltage Regulator PCB with LM7805
+5V Voltage Regulator PCB with LM7805
 By Jaidon Hill
 
 Created using Altium Designer. 
